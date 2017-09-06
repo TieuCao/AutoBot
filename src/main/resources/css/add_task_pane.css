@@ -1,0 +1,15 @@
+* {
+	-fx-background-radius: 0.0px;
+}
+
+.btn {
+	-fx-text-fill: white;
+}
+
+.btn-success {
+	-fx-background-color: #18c369;
+}
+
+.btn-success:pressed {
+	-fx-background-color: rgb(25.0, 211.0, 113.0);
+}
